@@ -4,20 +4,33 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 const App = () => {
   const slides = [
-    { imageUrl: "http://fullstacksapp.com/assets/img2-B5l93ND0.png" },
-    { imageUrl: "http://fullstacksapp.com/assets/img3-BefCqIyQ.png" },
-    { imageUrl: "http://fullstacksapp.com/assets/img3-BefCqIyQ.png" },
     {
-      imageUrl: "http://fullstacksapp.com/assets/img2-B5l93ND0.png",
+      imageUrl:
+        "https://cdn.pixabay.com/photo/2016/08/03/09/03/universe-1566159_640.jpg",
     },
     {
-      imageUrl: "http://fullstacksapp.com/assets/img2-B5l93ND0.png",
+      imageUrl:
+        "https://cdn.pixabay.com/photo/2016/09/22/10/44/banner-1686943_640.jpg",
     },
     {
-      imageUrl: "http://fullstacksapp.com/assets/img2-B5l93ND0.png",
+      imageUrl:
+        "https://media.istockphoto.com/id/1270022469/photo/golden-yellow-orange-red-maple-leaves-close-up-on-the-blurred-background.jpg?s=612x612&w=0&k=20&c=fCD5Sm_c47wC9DIydodLgH0UJqNzr2gt9W5ewaXmniM=",
     },
     {
-      imageUrl: "http://fullstacksapp.com/assets/img2-B5l93ND0.png",
+      imageUrl:
+        "https://png.pngtree.com/thumb_back/fh260/background/20221011/pngtree-blue-gold-background-banner-idea-modern-simple-free-download-image_1467602.jpg",
+    },
+    {
+      imageUrl:
+        "https://img.freepik.com/premium-vector/abstract-asthetic-hd-wallpaper-background-banner-design-multipurpose_1340-16681.jpg",
+    },
+    {
+      imageUrl:
+        "https://c4.wallpaperflare.com/wallpaper/837/468/965/wavy-dark-shadow-light-wallpaper-preview.jpg",
+    },
+    {
+      imageUrl:
+        "https://img.lovepik.com/background/20211022/large/lovepik-taobao-tmall-e-commerce-banner-background-image_500603827.jpg",
     },
   ];
 
